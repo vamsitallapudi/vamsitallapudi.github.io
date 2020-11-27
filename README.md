@@ -11,3 +11,7 @@ Apart from coding stuff, he loves to interact with people with their queries reg
 <a href="https://github.com/vamsitallapudi?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vamsitallapudi&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=27" alt="Vamsi Tallapudi's github stats"/>
 </a>
+
+<a href="https://github.com/vamsitallapudi?tab=repositories">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsitallapudi&theme=dark&hide_langs_below=1&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff" />
+</a>
